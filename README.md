@@ -99,11 +99,16 @@ plt.show()
 # output:
 ![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/4ef07ff0-2d58-4cbd-83de-d7e0f87d2104)
 ![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/f15ccd9f-4662-4da9-b09b-96a90e4bbaff)
+![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/4d51eb6a-c148-4ca3-94c7-226fd57c197c)
+
 ![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/1b94a337-7377-4f6f-80a9-86d1fb216b4c)
 
 ![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/dc17af7c-c88f-4b4c-920d-75551faeade2)
 
 ![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/92d3d8c3-aca0-466c-95b5-31b7dbf3e177)
+
 ![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/4101c9c5-7460-4aa3-af30-4b775b58549f)
+
 ![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/97af6bcf-9323-4634-8c14-896b92d0ce15)
+
 # RESULT: Data Visualization has been performed on a complex dataset and saved the data to a file
