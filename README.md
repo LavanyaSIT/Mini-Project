@@ -18,6 +18,7 @@ Apply Feature generation and selection techniques to all the features of the dat
 STEP 4
 Apply data visualization techniques to identify the patterns of the data.
 # program
+```
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -94,6 +95,7 @@ ax.set_xlabel('company')
 ax.set_ylabel('Value')
 plt.legend(title='company_type')
 plt.show()
+```
 # output:
 ![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/4ef07ff0-2d58-4cbd-83de-d7e0f87d2104)
 ![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/f15ccd9f-4662-4da9-b09b-96a90e4bbaff)
