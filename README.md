@@ -102,6 +102,8 @@ plt.show()
 
 ![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/8a2d3064-2809-4457-a1f2-258713cd2925)
 ![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/bdf610b9-e6f3-4f54-bb56-a5865b9dc839)
+![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/65d6e689-5dc4-459b-9b3d-c05d9d55e425)
+
 ![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/2143fc8a-550c-4c35-8079-8d5dc0da0bbb)
 ![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/e332f3a3-90ae-4599-9bb3-ad1449c5e68a)
 
