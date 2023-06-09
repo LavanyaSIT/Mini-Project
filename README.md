@@ -99,10 +99,10 @@ plt.show()
 # output:
 ![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/b1db2271-27a5-4005-9a92-9c3e9dc3140c)
 ![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/e75d85bb-46e3-4ac3-8763-4ce06165fd14)
-![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/e5368964-645f-4f01-bd5a-4630eb81924e)
+
 ![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/b6c244ff-b303-4e9f-afb0-f7692963afaf)
-![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/c8d2784d-dbc0-4f64-b4bb-615766e6fbeb)
-![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/36634d9f-8cf9-4963-9096-de3cdf42c411)
+
+
 ![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/53439a8d-a2a2-45ab-bed4-81bfc305f6d8)
 ![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/f1ff43e6-225e-4c60-94a7-a7834ecf2fe5)
 ![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/1e53d202-f967-4dfe-99db-7623f146cf42)
