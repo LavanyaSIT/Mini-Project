@@ -103,7 +103,7 @@ plt.show()
 ![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/8a2d3064-2809-4457-a1f2-258713cd2925)
 ![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/bdf610b9-e6f3-4f54-bb56-a5865b9dc839)
 ![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/2143fc8a-550c-4c35-8079-8d5dc0da0bbb)
-![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/449f456d-5cba-4fe4-93f6-1f5ac80cdd3b)
+
 ![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/35d23952-a038-43dd-9ec7-fb739cbca985)
 
 
@@ -112,6 +112,8 @@ plt.show()
 ![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/f1ff43e6-225e-4c60-94a7-a7834ecf2fe5)
 ![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/1e53d202-f967-4dfe-99db-7623f146cf42)
 ![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/4f2480f4-0272-4fe5-83db-45ecd850e41a)
+![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/4817df35-85a3-482e-9f9d-2f3739e2c786)
+
 ![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/fad0fddf-acec-4469-9314-29591d85defe)
 
 
