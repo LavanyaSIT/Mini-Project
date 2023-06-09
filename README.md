@@ -97,18 +97,20 @@ plt.legend(title='company_type')
 plt.show()
 ```
 # output:
-![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/4ef07ff0-2d58-4cbd-83de-d7e0f87d2104)
-![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/f15ccd9f-4662-4da9-b09b-96a90e4bbaff)
-![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/4d51eb6a-c148-4ca3-94c7-226fd57c197c)
+![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/b1db2271-27a5-4005-9a92-9c3e9dc3140c)
+![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/e75d85bb-46e3-4ac3-8763-4ce06165fd14)
+![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/e5368964-645f-4f01-bd5a-4630eb81924e)
+![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/b6c244ff-b303-4e9f-afb0-f7692963afaf)
+![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/c8d2784d-dbc0-4f64-b4bb-615766e6fbeb)
+![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/36634d9f-8cf9-4963-9096-de3cdf42c411)
+![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/53439a8d-a2a2-45ab-bed4-81bfc305f6d8)
+![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/f1ff43e6-225e-4c60-94a7-a7834ecf2fe5)
+![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/1e53d202-f967-4dfe-99db-7623f146cf42)
+![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/4f2480f4-0272-4fe5-83db-45ecd850e41a)
+![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/fad0fddf-acec-4469-9314-29591d85defe)
 
-![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/1b94a337-7377-4f6f-80a9-86d1fb216b4c)
 
-![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/dc17af7c-c88f-4b4c-920d-75551faeade2)
 
-![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/92d3d8c3-aca0-466c-95b5-31b7dbf3e177)
 
-![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/4101c9c5-7460-4aa3-af30-4b775b58549f)
-
-![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/97af6bcf-9323-4634-8c14-896b92d0ce15)
 
 # RESULT: Data Visualization has been performed on a complex dataset and saved the data to a file
