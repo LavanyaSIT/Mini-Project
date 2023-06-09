@@ -100,10 +100,10 @@ plt.show()
 ![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/b1db2271-27a5-4005-9a92-9c3e9dc3140c)
 ![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/e75d85bb-46e3-4ac3-8763-4ce06165fd14)
 
-![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/b6c244ff-b303-4e9f-afb0-f7692963afaf)
 
 
-![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/53439a8d-a2a2-45ab-bed4-81bfc305f6d8)
+
+
 ![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/f1ff43e6-225e-4c60-94a7-a7834ecf2fe5)
 ![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/1e53d202-f967-4dfe-99db-7623f146cf42)
 ![image](https://github.com/LavanyaSIT/Mini-Project/assets/130207418/4f2480f4-0272-4fe5-83db-45ecd850e41a)
